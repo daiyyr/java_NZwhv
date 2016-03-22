@@ -1,0 +1,10 @@
+感谢周旭同学~~~~~o(*≧▽≦)ツ
+getting login page succeed!
+ WebClient.loadWebResponseFromWebConnection() get 'Please enable JavaScript' page, response url: http://www.immigration.govt.nz/migrant/default.htm
+dudeea login succeed
+ WebClient.loadWebResponseFromWebConnection() get 'Please enable JavaScript' page, response url: https://www.immigration.govt.nz/WORKINGHOLIDAY/Application/Create.aspx?CountryId=82
+getting applyNow page succeed
+ WebClient.loadWebResponseFromWebConnection() get 'Please enable JavaScript' page, response url: https://www.immigration.govt.nz/WORKINGHOLIDAY/Application/Create.aspx?CountryId=82
+getting personal1 with the messy JS page, click apply now button again
+ WebClient.loadWebResponseFromWebConnection() get 'Please enable JavaScript' page, response url: https://www.immigration.govt.nz/WORKINGHOLIDAY/Application/Create.aspx?CountryId=82
+getting personal1 with the messy JS page, click apply now button again
